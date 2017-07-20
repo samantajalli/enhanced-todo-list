@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ToDoList</string>
+
+    <string-array name="spinner_items">
+        <item>Default</item>
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+</resources>
